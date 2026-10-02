@@ -4,13 +4,13 @@
 
 ## 🌐 Socials:
 <a href="https://www.facebook.com/pricnesandy.elegado" target="_blank">
-  <img src="https://img.shields.io/badge/-%231877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+  <img src="https://img.shields.io/badge/%20%20%20%20%20%20%20%20%20-%231877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
 </a>
 <a href="https://instagram.com/sandy_elegado" target="_blank">
-  <img src="https://img.shields.io/badge/-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  <img src="https://img.shields.io/badge/%20%20%20%20%20%20%20%20%20-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
 </a>
 <a href="https://www.linkedin.com/in/prince-sandy-elegado-4115601a5/" target="_blank">
-  <img src="https://img.shields.io/badge/-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <img src="https://img.shields.io/badge/%20%20%20%20%20%20%20%20%20-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 
 # 💻 Tech Stack:
